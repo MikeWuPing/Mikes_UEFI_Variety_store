@@ -612,7 +612,7 @@ This repository ships **one README and nothing else** — no source code, no bin
 
 Entries are grouped into four categories (Tools / Skills / Games / Others) and **sorted by star count, highest first** within each category.
 
-> [中文版](#mikes_uefi_variety_store) ｜ Back to the Chinese version at the top of this page
+> [Chinese version](#mikes_uefi_variety_store) ｜ back to the top of this page
 
 ## Contents
 
@@ -666,7 +666,7 @@ Entries are grouped into four categories (Tools / Skills / Games / Others) and *
 
 #### gsetupmod
 
-**Firmware Setup Browser** ｜ ★121 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: —
+**Firmware Setup Browser** ｜ ★121 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: —
 
 <img src="assets/gsetupmod.png" width="640" alt="gsetupmod">
 
@@ -678,7 +678,7 @@ Parses HII/IFR to rebuild the BIOS Setup screen and exposes the options the firm
 
 #### UEFI_Test_Suite
 
-**UEFI Hardware Diagnostics Suite** ｜ ★65 ｜ Category: Tool ｜ Language: HTML ｜ License: 个人免费 / 商用授权
+**UEFI Hardware Diagnostics Suite** ｜ ★65 ｜ Category: Tool ｜ Language: HTML ｜ License: Free for personal use / commercial license
 
 <img src="assets/uefi-test-suite.png" width="640" alt="UEFI_Test_Suite">
 
@@ -690,7 +690,7 @@ The binary release repository for UEFI hardware diagnostics, testing and repair-
 
 #### AdvDiskTest
 
-**Disk Health Detection Tool** ｜ ★65 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: 个人免费 / 商用授权
+**Disk Health Detection Tool** ｜ ★65 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Free for personal use / commercial license
 
 <img src="assets/advdisktest.png" width="640" alt="AdvDiskTest">
 
@@ -702,7 +702,7 @@ Native UEFI disk and SSD detection: device identification, two-axis health and w
 
 #### AdvMemTest
 
-**Memory Stress Test Tool** ｜ ★65 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: 个人免费 / 商用授权
+**Memory Stress Test Tool** ｜ ★65 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Free for personal use / commercial license
 
 <img src="assets/advmemtest.png" width="640" alt="AdvMemTest">
 
@@ -714,7 +714,7 @@ Memtest86 family style: 33 real test patterns, four multi-core modes with genuin
 
 #### BootDoctor
 
-**Boot Diagnosis & Repair Tool** ｜ ★65 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: 个人免费 / 商用授权
+**Boot Diagnosis & Repair Tool** ｜ ★65 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Free for personal use / commercial license
 
 <img src="assets/bootdoctor.png" width="640" alt="BootDoctor">
 
@@ -726,7 +726,7 @@ The graphical counterpart of bootrec + bcdboot: scans every partition for Window
 
 #### pcDig
 
-**Whole-Machine Hardware Diagnostics** ｜ ★65 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: 个人免费 / 商用授权
+**Whole-Machine Hardware Diagnostics** ｜ ★65 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Free for personal use / commercial license
 
 <img src="assets/pcdig.png" width="640" alt="pcDig">
 
@@ -738,7 +738,7 @@ Dell built-in Diagnostics / PC-Check style: splits “can this machine boot” i
 
 #### gudumpinfo
 
-**Graphic UEFI System Info Viewer** ｜ ★50 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: NOASSERTION
+**Graphic UEFI System Info Viewer** ｜ ★50 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Noassertion
 
 <img src="assets/gudumpinfo.png" width="640" alt="gudumpinfo">
 
@@ -762,7 +762,7 @@ An EDK2 package that brings the LVGL graphics library into the firmware environm
 
 #### UefiEraser
 
-**Disk Data Shredder** ｜ ★21 ｜ Category: Tool ｜ Language: C ｜ License: MIT（Free）/ 专有（Pro）
+**Disk Data Shredder** ｜ ★21 ｜ Category: Tool ｜ Language: C ｜ License: MIT (Free) / Proprietary (Pro)
 
 <img src="assets/uefieraser.png" width="640" alt="UefiEraser">
 
@@ -774,7 +774,7 @@ Before any operating system boots, overwrites a whole physical disk, a single pa
 
 #### uwinunlocker
 
-**Offline Windows Local Account Password Reset** ｜ ★21 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: 个人免费 / 商用授权
+**Offline Windows Local Account Password Reset** ｜ ★21 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Free for personal use / commercial license
 
 <img src="assets/uwinunlocker.png" width="640" alt="uwinunlocker">
 
@@ -798,7 +798,7 @@ Wraps ACPICA — the ACPI interpreter of the UEFI world — as an EDK2 package f
 
 #### biosllm
 
-**LLM Terminal Inside UEFI Firmware** ｜ ★7 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: NOASSERTION
+**LLM Terminal Inside UEFI Firmware** ｜ ★7 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Noassertion
 
 <img src="assets/biosllm.png" width="640" alt="biosllm">
 
@@ -810,7 +810,7 @@ A large-model terminal running inside UEFI firmware: read the hardware, query th
 
 #### guedit
 
-**Graphic UEFI Text Editor** ｜ ★6 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: —
+**Graphic UEFI Text Editor** ｜ ★6 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: —
 
 <img src="assets/guedit.png" width="640" alt="guedit">
 
@@ -822,7 +822,7 @@ A GUI text editor running in the UEFI Shell, built on LVGL — liquid-glass styl
 
 #### mount
 
-**UEFI Shell Mount Command** ｜ ★6 ｜ Category: Tool ｜ Language: C ｜ License: NOASSERTION
+**UEFI Shell Mount Command** ｜ ★6 ｜ Category: Tool ｜ Language: C ｜ License: Noassertion
 
 <img src="assets/mount.png" width="640" alt="mount">
 
@@ -846,7 +846,7 @@ A pure-C NES emulator originally built on SDL3, ported to the UEFI Shell environ
 
 #### uIME
 
-**Chinese IME for UEFI Shell** ｜ ★5 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: NOASSERTION
+**Chinese IME for UEFI Shell** ｜ ★5 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: Noassertion
 
 <img src="assets/uime.png" width="640" alt="uIME">
 
@@ -858,7 +858,7 @@ A Chinese input method for UEFI: candidate window, double-pinyin and abbreviated
 
 #### gufile
 
-**Graphic UEFI File Manager** ｜ ★2 ｜ Category: Tool ｜ Language: 二进制发布（无源码） ｜ License: —
+**Graphic UEFI File Manager** ｜ ★2 ｜ Category: Tool ｜ Language: Binary release (no source) ｜ License: —
 
 <img src="assets/gufile.png" width="640" alt="gufile">
 
@@ -1032,7 +1032,7 @@ The classic FC Battle City ported to the UEFI Shell: executed directly in the sh
 
 #### UEFI_Goonies
 
-**The Goonies (UEFI Recreation)** ｜ ★6 ｜ Category: Game ｜ Language: C ｜ License: NOASSERTION
+**The Goonies (UEFI Recreation)** ｜ ★6 ｜ Category: Game ｜ Language: C ｜ License: Noassertion
 
 <img src="assets/uefi-goonies.png" width="640" alt="UEFI_Goonies">
 
